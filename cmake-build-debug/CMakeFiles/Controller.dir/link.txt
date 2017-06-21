@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Controller.dir/main.cpp.o CMakeFiles/Controller.dir/color.cpp.o CMakeFiles/Controller.dir/button.cpp.o CMakeFiles/Controller.dir/myMQTTClientTest.cpp.o  -o Controller 

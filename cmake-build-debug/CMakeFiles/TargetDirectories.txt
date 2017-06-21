@@ -1,0 +1,3 @@
+/home/narvena/Documents/Controller/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/narvena/Documents/Controller/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/narvena/Documents/Controller/cmake-build-debug/CMakeFiles/Controller.dir
